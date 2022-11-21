@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tom CAHRBONNEAU
+- 👋 Hi, I’m Tom CHARBONNEAU
 - 👀 I’m interested in Science
 - 🌱 I’m currently learning at ENSEA
 - 💞️ I’m looking to collaborate on Projecteur LED asservi
